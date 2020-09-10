@@ -1,2 +1,2 @@
-# ffCDA
-Implementation for Fast and Flexible Circuit Design Automation
+# eCDA
+Implementation for Efficient Circuit Design Automation
